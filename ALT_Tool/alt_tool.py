@@ -12,7 +12,7 @@ k = 8.617e-5  # Boltzmann constant (eV/K)
 st.set_page_config(page_title="ALT Tool", layout="centered")
 
 st.title("Accelerated Life Testing Tool")
-
+st.markdown("© 2025 Chrissy Lee. All rights reserved.")
 st.markdown("### Input Parameters")
 col1, col2 = st.columns(2)
 
